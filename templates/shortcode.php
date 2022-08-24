@@ -1,6 +1,6 @@
-<section class="wsu-section  wsu-width--full wsu-color-background--gray-4">
+<section class="wsu-section  wsu-width--full wsu-color-background--gray-5">
     <div class="wsu-section__inner wsu-width--content"> 
-		<figure class="wp-block-gallery columns-5">
+		<figure class="wp-block-gallery columns-4">
 			<ul class="blocks-gallery-grid">
 				<?php while ( $query->have_posts() ) : $query->the_post(); ?>
 				<li class="blocks-gallery-item">
