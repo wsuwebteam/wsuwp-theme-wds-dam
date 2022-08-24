@@ -1,4 +1,4 @@
-<section class="wsu-section  wsu-width--full wsu-color-background--gray-5">
+<section class="wsu-section  wsu-width--full wsu-color-background--gray-4">
     <div class="wsu-section__inner wsu-width--content"> 
 		<figure class="wp-block-gallery columns-5">
 			<ul class="blocks-gallery-grid">
